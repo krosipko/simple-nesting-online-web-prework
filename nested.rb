@@ -126,9 +126,6 @@ def adding_to_dennis
           :known_for => "Unix",
           :languages => ["C"]
         }
-     }
-  existing = programmer_hash[:dennis_ritchie][:known_for]
-  programmer_hash[:dennis_ritchie]known_for: [existing, "Assembly"]
-  programmer_hash
-
+    }
+    
 end
